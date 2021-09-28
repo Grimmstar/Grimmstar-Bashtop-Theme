@@ -1,6 +1,4 @@
-<div align="center">
-  ![Preview](img/screenshot.png?raw=true "Preview")
-</div>
+![Screenshot](https://github.com/Grimmstar/Grimmstar-Bashtop-Theme/blob/main/img/screenshot.png)
 
 ## Grimmstar [Bashtop](https://github.com/aristocratos/bashtop) Theme
 
