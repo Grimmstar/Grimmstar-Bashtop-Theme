@@ -1,5 +1,5 @@
 <div align=center>
-  ![Preview](screnshot.png)
+  ![Preview](screenshot.png)
 </div>
 
 ## Grimmstar [Bashtop](https://github.com/aristocratos/bashtop) Theme
